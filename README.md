@@ -1,6 +1,7 @@
 **Overview:**
 
 This Financial Sales Dashboard provides an in-depth analysis of sales, costs, and profitability across different products, segments, and regions. Built using Power BI, it helps stakeholders make data-driven decisions by visualizing key financial metrics.
+
 **Dataset Insights:**
 
 Your dataset contains financial sales data with the following key columns:
